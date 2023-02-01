@@ -1,4 +1,5 @@
-# SimuladorFactor-aCarretilla
+# Simulador Factoría y Carretilla Elevadora
+
 Simulador de conducción de una carretilla elevadora por una factoría
 
 
